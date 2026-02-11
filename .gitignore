@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+*.rpyc
+*.rpa
+*.save
+game/cache/
+game/saves/
+*.log
+.DS_Store
+renpy-*.exe
+renpy-*.dmg
+renpy-*.sh
